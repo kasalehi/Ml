@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: mlproject
+Version: 1.0
+Author: keyvan
+Author-email: ksalehi56@yahoo.com
+Requires-Dist: flask
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: docker
